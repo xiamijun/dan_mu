@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,body{
+    height:100%;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+#danmu{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    font-size: 50px;
+}
+.newItem{
+    background-color: white;
+    height: 50px;
+    line-height: 50px;
+    position: absolute;
+    overflow: hidden;
+}
